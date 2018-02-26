@@ -44,10 +44,13 @@
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
+<<<<<<< HEAD
   				<groupId>org.postgresql</groupId>
   				<artifactId>postgresql</artifactId>
 		</dependency>
 		<dependency>
+=======
+>>>>>>> 1ddbbd9eca38a503000b55e4bafa08e311896b0a
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
